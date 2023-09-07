@@ -1,0 +1,8 @@
+{
+  "name": "build-my-own-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Echogithu/build-my-own-tools.git",
+  "author": "Echogithu",
+  "license": "MIT"
+}
