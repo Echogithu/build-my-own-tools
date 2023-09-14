@@ -4,6 +4,10 @@
 
 ## API 文档
 
+### EventEmitter
+[EventEmitter](src/EventEmitter/EventEmitter.js)   发布订阅
+
+
 ### Object
 
 [deepClone](src/object/deepClone.js)   深拷贝
