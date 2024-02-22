@@ -14,6 +14,8 @@
 
 [isEmptyObject](src/object/isEmptyObject.js)    判断 Object 是否为空
 
+[new](src/object/new.js) 实现 new
+
 ### Webpack-Loader
 
 [tpl-loader-creator](src/tpl-loader-creator) 实现一个模板编译 loader
